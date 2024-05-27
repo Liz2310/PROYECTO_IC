@@ -1,0 +1,33 @@
+{
+    "title" : "web application tester",
+  
+    "skills" : ["sql",
+                "relational database",
+                "java",
+                "selenium",
+                "scripting",
+                "agile",
+                "communication",
+                "presenting",
+                "writing",
+                "english"],
+    
+    "experience" : {
+                  "top employers" : []
+                   },
+
+    "qualifications" : {
+                  "areas" :["computer", 
+                            "computer science", 
+                            "computer", 
+                            "electrical", 
+                            "mechanical",
+                            "mechatronic", 
+                            "mathematic",
+                            "electronic",
+                            "technology"],
+
+                  "top school" : []
+                }
+}
+

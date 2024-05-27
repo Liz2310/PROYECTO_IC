@@ -1,0 +1,40 @@
+{
+  "title" : "junior python developer",
+
+  "skills" : ["python",
+              "resilience",
+              "problem-solving",
+              "english",
+              "diplomacy",
+              "information technology",
+              "it",
+              "github",
+              "html",
+              "css",
+              "sass",
+              "javascript",
+              "js",
+              "angular",
+              "react",
+              "postgresql",
+              "aws",
+              "scrum",
+              "docker"],
+  
+  "experience" : {
+                    "top employers" : ["amazon", "microsoft", "apple", "facebook", "google", "netflix", "teradata", "uc san diego"]
+                  },
+  "qualifications" : {
+                    "areas" :  ["computer", 
+                                "computer science", 
+                                "computer", 
+                                "electrical", 
+                                "mechanical",
+                                "mechatronic", 
+                                "mathematic",
+                                "electronic",
+                                "technology"],
+
+                    "top school" : ["cetys", "uabc", "unam"]
+                  }
+}
